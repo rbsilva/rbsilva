@@ -1,6 +1,6 @@
 ## Hello World :earth_americas:
 
-- 🔭 I’m currently working on structuring a DevOps process at TecSinapse and deploying a Kubernetes cluster.
+- 🔭 I’m currently working on CI&T as a SRE Engineer.
 - 🌱 I’m currently learning Go lang
 - 👯 I’m looking to collaborate on Helm charts in general
 - 🤔 I’m looking for help with finding a good open source APM
